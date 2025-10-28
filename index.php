@@ -19,7 +19,7 @@
                 <button class="mobile-menu-toggle" aria-label="Toggle menu">
                     <span></span>
                     <span></span>
-                    <span></span>
+                    <span></span> 
                 </button> 
                 
                 <nav class="navigation" id="header-nav" aria-label="Main navigation">
