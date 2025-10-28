@@ -20,7 +20,7 @@
                     <span></span>
                     <span></span>
                     <span></span>
-                </button>
+                </button> 
                 
                 <nav class="navigation" id="header-nav" aria-label="Main navigation">
                     <ul class="nav-menu">
