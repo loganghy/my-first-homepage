@@ -13,7 +13,7 @@
         <div class="container">
             <div class="header-content">
                 <a href="#" class="logo">
-                    <img src="<?php echo function_exists('get_template_directory_uri') ? get_template_directory_uri() . '/logo.png' : 'logo.png'; ?>" alt="Condatis" class="logo-img">
+                    <img src="<?php echo function_exists('get_template_directory_uri') ? get_template_directory_uri() . '/images/condatis-logo.png' : 'images/condatis-logo.png'; ?>" alt="Condatis Logo">
                 </a>
                 
                 <button class="mobile-menu-toggle" aria-label="Toggle menu">
